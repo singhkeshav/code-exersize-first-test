@@ -21,5 +21,6 @@ cd the-example-app.nodejs
 
 ```bash
 npm install
+npm start
 ```
 
