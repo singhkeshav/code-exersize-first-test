@@ -15,7 +15,7 @@
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/contentful/the-example-app.nodejs.git
+git clone https://github.com/singhkeshav/code-exersize-first-test.git
 cd code-exersize-first-test
 ```
 
